@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/main.dir/main.cpp.o -o main   -L/home/lnick/Ascend/cann-8.5.0/lib64  -L/home/lnick/Ascend/cann-8.5.0/tools/simulator/Ascend910B2/lib  lib/libkernels.a -lascendcl -lruntime -ltiling_api -lregister -lplatform -lerror_manager -lprofapi -lge_common_base -lascendalog -lmmpa -ldl -lascend_dump -lc_sec 

@@ -1,0 +1,13 @@
+# Target labels
+ kernels_host
+# Source files and their labels
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_host
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_host.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_host-complete.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-stamp/kernels_host-build.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-stamp/kernels_host-configure.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-stamp/kernels_host-download.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-stamp/kernels_host-install.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-stamp/kernels_host-mkdir.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-stamp/kernels_host-patch.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-stamp/kernels_host-update.rule

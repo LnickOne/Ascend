@@ -1,0 +1,3 @@
+/home/lnick/GitHub/Ascend/AscendC算子开发/lesson_01/build/CMakeFiles/demo.dir
+/home/lnick/GitHub/Ascend/AscendC算子开发/lesson_01/build/CMakeFiles/edit_cache.dir
+/home/lnick/GitHub/Ascend/AscendC算子开发/lesson_01/build/CMakeFiles/rebuild_cache.dir

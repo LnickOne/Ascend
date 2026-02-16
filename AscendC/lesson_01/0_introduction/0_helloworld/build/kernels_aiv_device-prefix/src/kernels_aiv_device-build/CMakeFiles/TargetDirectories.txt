@@ -1,0 +1,4 @@
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aiv_device-prefix/src/kernels_aiv_device-build/CMakeFiles/device_aiv_obj.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aiv_device-prefix/src/kernels_aiv_device-build/CMakeFiles/merge_aiv_device_obj.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aiv_device-prefix/src/kernels_aiv_device-build/CMakeFiles/edit_cache.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aiv_device-prefix/src/kernels_aiv_device-build/CMakeFiles/rebuild_cache.dir

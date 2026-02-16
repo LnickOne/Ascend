@@ -1,0 +1,2 @@
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aic_device-prefix/src/kernels_aic_device-build/CMakeFiles/edit_cache.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aic_device-prefix/src/kernels_aic_device-build/CMakeFiles/rebuild_cache.dir

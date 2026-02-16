@@ -1,0 +1,7 @@
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-build/CMakeFiles/host_bisheng_obj.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-build/CMakeFiles/edit_cache.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-build/CMakeFiles/rebuild_cache.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-build/CMakeFiles/list_install_components.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-build/CMakeFiles/install.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-build/CMakeFiles/install/local.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_host-prefix/src/kernels_host-build/CMakeFiles/install/strip.dir

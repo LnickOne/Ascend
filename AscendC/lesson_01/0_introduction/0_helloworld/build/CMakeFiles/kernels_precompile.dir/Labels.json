@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_precompile"
+		},
+		{
+			"file" : "/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_precompile.rule"
+		},
+		{
+			"file" : "/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_precompile-complete.rule"
+		},
+		{
+			"file" : "/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-build.rule"
+		},
+		{
+			"file" : "/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-configure.rule"
+		},
+		{
+			"file" : "/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-download.rule"
+		},
+		{
+			"file" : "/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-install.rule"
+		},
+		{
+			"file" : "/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-mkdir.rule"
+		},
+		{
+			"file" : "/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-patch.rule"
+		},
+		{
+			"file" : "/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kernels_precompile"
+		],
+		"name" : "kernels_precompile"
+	}
+}

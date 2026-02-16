@@ -1,0 +1,4 @@
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-build/CMakeFiles/precompile_obj.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-build/CMakeFiles/check_src_template.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-build/CMakeFiles/edit_cache.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# Target labels
+ kernels_precompile
+# Source files and their labels
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_precompile
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_precompile.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_precompile-complete.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-build.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-configure.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-download.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-install.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-mkdir.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-patch.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_precompile-prefix/src/kernels_precompile-stamp/kernels_precompile-update.rule

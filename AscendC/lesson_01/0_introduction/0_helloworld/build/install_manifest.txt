@@ -1,0 +1,3 @@
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/out/lib/libkernels.a
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/out/include/kernels/aclrtlaunch_triple_chevrons_func.h
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/out/include/kernels/aclrtlaunch_hello_world.h

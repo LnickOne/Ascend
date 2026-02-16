@@ -1,0 +1,13 @@
+# Target labels
+ kernels_preprocess
+# Source files and their labels
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_preprocess
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_preprocess.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_preprocess-complete.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-stamp/kernels_preprocess-build.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-stamp/kernels_preprocess-configure.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-stamp/kernels_preprocess-download.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-stamp/kernels_preprocess-install.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-stamp/kernels_preprocess-mkdir.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-stamp/kernels_preprocess-patch.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-stamp/kernels_preprocess-update.rule

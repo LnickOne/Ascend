@@ -1,0 +1,8 @@
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-build/CMakeFiles/preprocess_obj.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-build/CMakeFiles/aiv_obj.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-build/CMakeFiles/merge_aiv_obj_text.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-build/CMakeFiles/aic_obj.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-build/CMakeFiles/merge_aic_obj_text.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-build/CMakeFiles/_host_cpp.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-build/CMakeFiles/edit_cache.dir
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-build/CMakeFiles/rebuild_cache.dir

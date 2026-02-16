@@ -1,0 +1,13 @@
+# Target labels
+ kernels_aic_device
+# Source files and their labels
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_aic_device
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_aic_device.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/CMakeFiles/kernels_aic_device-complete.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aic_device-prefix/src/kernels_aic_device-stamp/kernels_aic_device-build.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aic_device-prefix/src/kernels_aic_device-stamp/kernels_aic_device-configure.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aic_device-prefix/src/kernels_aic_device-stamp/kernels_aic_device-download.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aic_device-prefix/src/kernels_aic_device-stamp/kernels_aic_device-install.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aic_device-prefix/src/kernels_aic_device-stamp/kernels_aic_device-mkdir.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aic_device-prefix/src/kernels_aic_device-stamp/kernels_aic_device-patch.rule
+/home/lnick/GitHub/Ascend/AscendC/lesson_01/0_introduction/0_helloworld/build/kernels_aic_device-prefix/src/kernels_aic_device-stamp/kernels_aic_device-update.rule
