@@ -4,27 +4,48 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/usr/local/Ascend/cann-8.5.0/x86_64-linux/include/**",
-                "/usr/local/Ascend/cann-8.5.0/x86_64-linux/ascendc/include/**",
-                "/usr/local/Ascend/cann-8.5.0/x86_64-linux/tikcpp/tikcfw/**",
-                "/usr/local/Ascend/cann-8.5.0/x86_64-linux/asc/include/**",
-                "/usr/local/Ascend/cann-8.5.0/x86_64-linux/asc/impl/**"
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/include/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/ascendc/include/**",
+                "/home/lnick/Ascend/cann-8.5.0/include/ascendc/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/tikcpp/tikcfw/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/tikcpp/tikcfw/interface/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/tikcpp/tikcfw/impl/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/include/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/include/adv_api/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/include/basic_api/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/include/aicpu_api/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/include/utils/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/impl/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/impl/adv_api/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/impl/basic_api/**",
+                "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/impl/utils/**"
             ],
             "defines": [
-                "__CCE_KT_TEST__"
+                "__CCE_KT_TEST__",
+                "DTILING_KEY_VAR=0",
+                "__CHECK_FEATURE_AT_PRECOMPILE",
+                "__INCLUDE_ASC_DEVKIT_VERSION__"
             ],
-            "compilerPath": "/usr/bin/gcc",
+            "compilerPath": "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/ccec_compiler/bin/bisheng",
             "cStandard": "c17",
             "cppStandard": "c++17",
             "intelliSenseMode": "linux-gcc-x64",
             "browse": {
                 "path": [
                     "${workspaceFolder}",
-                    "/usr/local/Ascend/cann-8.5.0/x86_64-linux/include",
-                    "/usr/local/Ascend/cann-8.5.0/x86_64-linux/ascendc/include",
-                    "/usr/local/Ascend/cann-8.5.0/x86_64-linux/tikcpp/tikcfw",
-                    "/usr/local/Ascend/cann-8.5.0/x86_64-linux/asc/include",
-                    "/usr/local/Ascend/cann-8.5.0/x86_64-linux/asc/impl"
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/include",
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/ascendc/include",
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/tikcpp/tikcfw",
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/include",
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/include/adv_api",
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/include/basic_api",
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/include/aicpu_api",
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/include/utils",
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/impl",
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/impl/adv_api",
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/impl/basic_api",
+                    "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/asc/impl/utils",
+                    "/home/lnick/Ascend/cann-8.5.0/include/ascendc"
                 ],
                 "limitSymbolsToIncludedHeaders": true
             }

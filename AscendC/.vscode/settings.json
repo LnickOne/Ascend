@@ -1,0 +1,4 @@
+{
+    "C_Cpp.default.compilerPath": "/home/lnick/Ascend/cann-8.5.0/x86_64-linux/ccec_compiler/bin/bisheng",
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/lesson_01/0_introduction/0_helloworld/build/kernels_preprocess-prefix/src/kernels_preprocess-build/compile_commands.json"
+}
